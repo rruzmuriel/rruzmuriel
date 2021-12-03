@@ -1,4 +1,5 @@
-### Hey, I am Rafa! Great to see you here! <img src="https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
+<a href="#"><img width="28%" height="auto" align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" /></a>
+### Hey, I am Rafa! Great to see you here! <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="50px">
 
 I am Rafael Ruz, product designer and frontend developer.
 
@@ -16,7 +17,7 @@ Contact me here:
 
 # 🌱 ***Tech skills - knowledge***
 
-## **Program Languages** <img src="https://media.giphy.com/media/GZu3NtMoA6Lp2alLKk/giphy.gif" width="30px">
+## **Program Languages** <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="45px">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +25,7 @@ Contact me here:
 
 <br>
 
-## **Libraries & Framework** <img src="https://media.giphy.com/media/IwSG1QKOwDjQk/giphy.gif" width="30px"> 
+## **Libraries & Framework** <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="90px"> 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -39,7 +40,7 @@ Contact me here:
 
 <br>
 
-## **Tools & Platform**   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px">
+## **Tools & Platform**   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="40px">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -55,11 +56,11 @@ Contact me here:
 ![HootSuite](https://img.shields.io/badge/Hootsuite-003265?style=for-the-badge&logo=hootsuite&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Genially](https://img.shields.io/badge/Genially-4285F4?style=for-the-badge&logo=genially&logoColor=white)
-![Wireframes](https://img.shields.io/badge/Wireframes-5C2D91?style=for-the-badge&logo=wireframes&logoColor=white)
+
 
 <br>
 
-## **Product development methodologies** <img src="https://media.giphy.com/media/l1UkRZuk6FPFYn0ewa/giphy.gif" width="30px">
+## **Product development methodologies** <img src="https://media.giphy.com/media/4zS4PtMzotQv1jO2ZH/giphy.gif" width="50px">
 
 ![Agile](https://img.shields.io/badge/Agile-20232A?style=for-the-badge&logo=agile&logoColor=61DAFB)
 ![Desing Thinking](https://img.shields.io/badge/Desing_Thinking-563D7C?style=for-the-badge&logo=desing-thinking&logoColor=white)
