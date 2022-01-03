@@ -1,7 +1,24 @@
 <a href="#"><img width="28%" height="auto" align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" /></a>
 ### Hey, I am Rafa! Great to see you here! <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="50px">
 
-I am Rafael Ruz, product designer and frontend developer.
+I am Rafael Ruz, product designer and jr frontend developer.
+
+<br>
+
+# **About**
+
+Co-founder of BeByDoing App. After working on my startup for the past 2 years, I've gained a deep knowledge of product management and designer, marketing strategies and business development plans.
+I contributed to some programming tasks and it has been a wake-up call for learning more about software development and coding.
+
+🛠 I’m currently learning more about React and backend development.
+
+🔭 I am always looking for opportunities to growth professionally and personally.
+
+💻 Open to contribute to open sources projects.
+
+💬 Ask me about anything [here](https://github.com/rruzmuriel/rruzmuriel/issues)
+
+<br>
 
 Contact me here:
 
@@ -11,7 +28,7 @@ Contact me here:
 	</a>
 	<a href="">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-	</a>  
+	</a>
 </p>
 <hr />
 
@@ -25,7 +42,7 @@ Contact me here:
 
 <br>
 
-## **Libraries & Framework** <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="90px"> 
+## **Libraries & Framework** <img src="https://media.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif" width="90px">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -63,8 +80,23 @@ Contact me here:
 ## **Product development methodologies** <img src="https://media.giphy.com/media/4zS4PtMzotQv1jO2ZH/giphy.gif" width="50px">
 
 ![Agile](https://img.shields.io/badge/Agile-20232A?style=for-the-badge&logo=agile&logoColor=61DAFB)
+![Wireframing](https://img.shields.io/badge/Wireframing-618dfb?style=for-the-badge&logo=&logoColor=618dfb)
 ![Desing Thinking](https://img.shields.io/badge/Desing_Thinking-563D7C?style=for-the-badge&logo=desing-thinking&logoColor=white)
 ![Lean Startup](https://img.shields.io/badge/Lean_Startup-339933?style=for-the-badge&logo=leanStartup&logoColor=white)
 ![Content Marketing](https://img.shields.io/badge/Content_Marketing-CB3837?style=for-the-badge&logo=&logoColor=white)
 <br>
 <hr />
+
+<br>
+
+# **Projects**
+//BeByDoing
+//Blog
+
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rruzmuriel&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rruzmuriel&layout=compact&theme=radical)](https://github.com/rruzmuriel/github-readme-stats)
