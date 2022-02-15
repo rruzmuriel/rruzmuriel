@@ -4,7 +4,7 @@ Product designer and jr frontend developer.
 
 
 # **About**
-Co-founder of BeByDoing App. After working on my startup for the past 2 years, I've gained a deep knowledge of product management and designer, marketing strategies and business development plans.
+Co-founder of BeByDoing App. After working on my startup for the last few years, I've gained a deep knowledge of product management and designer, marketing strategies and business development plans.
 I contributed to some programming tasks and it has been a wake-up call for learning more about software development and coding.
 
 🛠 I’m currently learning more about React and backend development.
@@ -82,7 +82,7 @@ I contributed to some programming tasks and it has been a wake-up call for learn
 
 
 # **Projects**
-<a href="https://view.genial.ly/605dbe22a5dd440d186814e0">![BeByDoing App](img/logo-bbyd.png?raw=true "BeByDoing App")</a>
+<a href="https://www.bebydoing.com">![BeByDoing App](img/logo-bbyd.png?raw=true "BeByDoing App")</a>
 
 Cloud solution to agile the recruitment processes based on video technology. Training platform for candidates to simulate online recruitment processes via InfoCV, VideoCV, VideoInterviews and Feedback.
 
