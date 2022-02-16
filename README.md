@@ -1,10 +1,10 @@
 <a href="#"><img width="28%" height="auto" align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" /></a>
 ### Hey, I am Rafa! Great to see you here! <img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="50px">
-Product designer and jr frontend developer.
 
+Product & Development | HR Tech
 
 # **About**
-Co-founder of BeByDoing App. After working on my startup for the last few years, I've gained a deep knowledge of product management and designer, marketing strategies and business development plans.
+Co-creator of BeByDoing App. After working on my startup for the last few years, I've gained a deep knowledge of product management and designer, marketing strategies and business development plans.
 I contributed to some programming tasks and it has been a wake-up call for learning more about software development and coding.
 
 🛠 I’m currently learning more about React and backend development.
@@ -99,5 +99,3 @@ Cloud solution to agile the recruitment processes based on video technology. Tra
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rruzmuriel&layout=compact)
 
 <br>
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rruzmuriel&repo=github-readme-stats)
