@@ -84,7 +84,7 @@ I contributed to some programming tasks and it has been a wake-up call for learn
 # **Projects**
 <a href="https://www.bebydoing.com">![BeByDoing App](img/logo-bbyd.png?raw=true "BeByDoing App")</a>
 
-Cloud solution to agile the recruitment processes based on video technology. Training platform for candidates to simulate online recruitment processes via InfoCV, VideoCV, VideoInterviews and Feedback.
+Cloud solution that makes recruitment processes more agile through video technology. Video JobOffers portal and digital platformm for candidates training to simulate online recruitment processes via InfoCV, VideoCV, VideoInterviews and Feedback.
 
 <br>
 
