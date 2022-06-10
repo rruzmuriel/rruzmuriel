@@ -1,4 +1,4 @@
-<a href="#"><img width="28%" height="auto" align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" /></a>
+<a href="#"><img width="28%" align="right" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" /></a>
 ### Hey, I am Rafa! Great to see you here! <img width="7%" src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" >
 
 Product & Development | HR Tech
